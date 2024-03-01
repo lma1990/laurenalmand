@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lauren</h1>
 <h3 align="center">HR enthusiast-learning how to use data to drive conversation.</h3>
 
-- 🔭 I’m currently working on **Doggo**
+- 🔭 I’m currently working on **Doggo SQL/Looker Project**
 
 - 🌱 I’m currently learning **SQL,R,Looker**
 
